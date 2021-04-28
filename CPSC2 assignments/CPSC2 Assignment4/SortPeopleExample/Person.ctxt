@@ -1,7 +1,0 @@
-#BlueJ class context
-comment0.target=Person
-comment1.params=iname\ iid\ ihireDate
-comment1.target=Person(java.lang.String,\ int,\ java.util.Date)
-comment2.params=
-comment2.target=java.lang.String\ toString()
-numComments=3
