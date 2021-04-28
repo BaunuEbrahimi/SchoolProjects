@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=InsertionSort
+comment1.params=arr\ size
+comment1.target=void\ insertLast(int[],\ int)
+comment1.text=\n\ \ \ \ A\ method\ to\ make\ an\ almost\ sorted\ array\ into\ fully\ sorted.\n\n\ \ \ \ @param\ arr\:\ an\ array\ of\ integers,\ with\ all\ the\ numbers\ are\ sorted\n\ \ \ \ excepted\ the\ last\ one\n\n\ \ \ \ @param\ size\:\ the\ number\ of\ elements\ in\ an\ array\n
+comment2.params=arr\ size
+comment2.target=void\ insertionSort(int[],\ int)
+comment2.text=\n\ \ \ \ A\ method\ to\ make\ an\ unsorted\ array\ into\ fully\ sorted.\n\n\ \ \ \ @param\ arr\:\ an\ array\ of\ integers\n\n\ \ \ \ @param\ size\:\ the\ number\ of\ elements\ in\ an\ array\n
+comment3.params=arr\ size\ value
+comment3.target=void\ printArray(int[],\ int,\ int)
+comment4.params=arr\ size
+comment4.target=void\ printArray(int[],\ int)
+comment5.params=arr\ size\ sp\ shiftsOnLoop
+comment5.target=void\ printArray(int[],\ int,\ int,\ int)
+comment6.params=args
+comment6.target=void\ main(java.lang.String[])
+numComments=7

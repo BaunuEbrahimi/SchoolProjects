@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=DoorTester
+comment0.text=\u2028\ \ \ A\ class\ to\ test\ the\ Door\ class.\u2028
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\u2028\ \ Tests\ the\ methods\ of\ the\ Door\ class\u2028\ \ \ \ \ \ \n@param\ args\ not\ used\u2028
+numComments=2

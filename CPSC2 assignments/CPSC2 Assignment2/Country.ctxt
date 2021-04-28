@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Country
+comment0.text=\n\ Assignment2\:\ design\ and\ implement\ a\ class\ called\ Country\n\ Programmer\:\ Baunu\ Ebrahimi\n
+comment1.params=name\ population\ area
+comment1.target=Country(java.lang.String,\ long,\ long)
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment3.params=
+comment3.target=long\ getPopulation()
+comment4.params=
+comment4.target=long\ getArea()
+comment5.params=name
+comment5.target=void\ setName(java.lang.String)
+comment6.params=population
+comment6.target=void\ setPopulation(long)
+comment7.params=area
+comment7.target=void\ setArea(long)
+comment8.params=
+comment8.target=double\ getDensity()
+comment9.params=
+comment9.target=void\ printCountry()
+numComments=10

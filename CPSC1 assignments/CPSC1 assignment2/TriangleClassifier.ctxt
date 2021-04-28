@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=TriangleClassifier
+comment1.params=sides
+comment1.target=boolean\ isRightTriangle(java.util.ArrayList)
+comment2.params=sides
+comment2.target=java.lang.String\ areaOfTriangle(java.util.ArrayList)
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4

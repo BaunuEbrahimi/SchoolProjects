@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=CrapsGame
+comment1.params=
+comment1.target=void\ initiate()
+comment2.params=
+comment2.target=void\ requestBalance()
+comment3.params=
+comment3.target=void\ requestBet()
+comment4.params=
+comment4.target=int\ rollDie()
+comment5.params=firstDie\ secondDie\ sumOfDie\ rollCount
+comment5.target=void\ printRoll(int,\ int,\ int,\ int)
+comment6.params=
+comment6.target=void\ play()
+comment7.params=
+comment7.target=void\ playAgain()
+comment8.params=args
+comment8.target=void\ main(java.lang.String[])
+numComments=9

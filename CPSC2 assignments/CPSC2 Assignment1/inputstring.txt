@@ -1,0 +1,7 @@
+String s0 = "counting the frequencies of letters";
+    
+String s1 = "Computer programming II is fun";
+    
+String s2 = "After a fairly tame season so far -- especially compared to the last one -- a monster storm loomed Friday over the Carolinas north to New England, spurring people to hunker down with their shovels, coffee and ideally firewood, given real fears that powerful winds and heavy snow and ice could knock out power. Roughly 75 million people total are in the path, 30 million of whom are under blizzard watches or warnings.";
+    
+String s3 = "Our department boasts an employment rate for graduates of nearly 100% in the field. Graduating students have recently been placed in a wide variety of organizations, including: Cisco Systems, Hershey Foods, IBM, Lockheed Martin, Merck, New York Life, National Security Agency (NSA), Pocono Medical Center, Proteus Technologies, Sanofi-Pasteur, Situational Awareness Systems, Space and Naval Warfare Systems (SPAWAR), US Army R&D Center at Picatinny Arsenal, NJ, Vanguard Investments, Verizon, and Vonage.";  

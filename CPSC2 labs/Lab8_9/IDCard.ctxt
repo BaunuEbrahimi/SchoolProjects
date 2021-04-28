@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=IDCard
+comment1.params=n\ id
+comment1.target=IDCard(java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ format()
+numComments=3

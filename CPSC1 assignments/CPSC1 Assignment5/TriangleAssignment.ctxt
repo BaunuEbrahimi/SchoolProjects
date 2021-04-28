@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=TriangleAssignment
+comment1.params=scan
+comment1.target=java.io.File\ getInputFile(java.util.Scanner)
+comment1.text=\ JFileChooser\:\ Works\ on\ Windows\ but\ not\ Mac\n\ \ \ \ static\ File\ getInputFile(Scanner\ scan)\ throws\ FileNotFoundException,\ IOException,\ Exception\ {\n\ \ \ \ \ \ \ \ boolean\ cont\ \=\ true;\n\ \ \ \ \ \ \ \ File\ file\ \=\ null;\n\ \ \ \ \ \ \ \ while\ (cont)\ {\n\ \ \ \ \ \ \ \ \ \ \ \ System.out.print("Enter\ the\ name\ of\ your\ input\ file\:\ ");\n\ \ \ \ \ \ \ \ \ \ \ \ String\ filename\ \=\ scan.next();\n\ \ \ \ \ \ \ \ \ \ \ \ file\ \=\ new\ File(filename);\n\ \ \ \ \ \ \ \ \ \ \ \ if\ (file.exists())\ {\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ cont\ \=\ false;\n\ \ \ \ \ \ \ \ \ \ \ \ }\ else\ {\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ JOptionPane.showMessageDialog(null,\ "The\ input\ file\ was\ not\ found.");\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ JFileChooser\ fileChooser\ \=\ new\ JFileChooser();\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ fileChooser.setCurrentDirectory(new\ File(System.getProperty("user.home")));\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ result\ \=\ fileChooser.showOpenDialog(null);\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ if\ (result\ \=\=\ JFileChooser.APPROVE_OPTION)\ \ {\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ cont\ \=\ false;\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ file\ \=\ fileChooser.getSelectedFile();\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ }\n\ \ \ \ \ \ \ \ \ \ \ \ }\n\ \ \ \ \ \ \ \ }\n\ \ \ \ \ \ \ \ return\ file;\n\ \ \ \ }\ \ \n
+comment2.params=scan
+comment2.target=java.io.File\ getOutputFile(java.util.Scanner)
+comment3.params=line
+comment3.target=boolean\ isRightTriangle(java.util.ArrayList)
+comment4.params=line
+comment4.target=java.lang.String\ areaOfTriangle(java.util.ArrayList)
+comment5.params=line\ writer
+comment5.target=void\ typeOfTriangle(java.util.ArrayList,\ java.io.PrintWriter)
+comment6.params=inputFile\ outputWriter\ lineNumber\ validEntries
+comment6.target=void\ fileData(java.io.File,\ java.io.PrintWriter,\ int,\ int)
+comment7.params=args
+comment7.target=void\ main(java.lang.String[])
+numComments=8

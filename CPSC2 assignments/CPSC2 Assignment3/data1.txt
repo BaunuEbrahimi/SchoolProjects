@@ -1,0 +1,9 @@
+8
+Larry		20	12345	CPSC
+Amy		23	34343	IT
+Ashley		18	99923	ENGL
+John		17	23434	CPSE
+Eric		19	11111	Engineering
+Jennifer	20	33333	Biology
+Christina	19	55555	French
+Mike		21	77777	Chemistry

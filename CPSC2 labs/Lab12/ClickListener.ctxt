@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=ClickListener
+comment0.text=\ (ClickListener\ Class\ prior\ to\ being\ turned\ into\ an\ inner\ class)\:\nimplement\ the\ ActionListener\ Interface
+comment1.params=e
+comment1.target=void\ actionPerformed(java.awt.event.ActionEvent)
+numComments=2

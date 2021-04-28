@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=LetterCounter_ArrayApp
+comment1.params=str
+comment1.target=int[]\ countLetter(java.lang.String)
+comment2.params=countArray
+comment2.target=void\ printLetterFreq(int[])
+comment2.text=\n\ Print\ the\ letters,\ their\ frequencies,\ and\ frequency\ representations\n\ @countArray\:\ an\ array\ of\ 26\ letters\ frequencies\ in\ an\ alphabetic\ order\ *\n\ Note\:\ Only\ print\ those\ frequencies\ >\ 0.\n
+comment3.params=num
+comment3.target=java.lang.String\ numToStar(int)
+comment3.text=\n\ Return\ a\ string\ with\ a\ number\ of\ stars\ (*)\ corresponding\ to\ the\ input\n\ "num",\ For\ instance,\ if\ num\ \=\ 5,\ then\ you\ should\ return\ "*****"\n\n\ Note\:\ This\ method\ will\ be\ invoked\ in\ the\ method\ of\ printLetterFreq()\n
+comment4.params=countArray
+comment4.target=char\ mostFreqLetter(int[])
+comment4.text=\n\ Find\ the\ most\ frequent\ letter\ in\ all\ 26\ letter\ frequencies.\n\ @countArray\:\ an\ array\ of\ 26\ letters\ frequencies\ in\ an\ alphabetic\ order\ *\n\ Note\:\ If\ there\ are\ more\ than\ one\ letters\ with\ highest\ frequencies,\n\ then\ return\ the\ first\ most\ frequent\ letter.\n
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6

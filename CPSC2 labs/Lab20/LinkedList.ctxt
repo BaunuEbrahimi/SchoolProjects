@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=LinkedList
+comment1.params=
+comment1.target=LinkedList()
+comment1.text=\ \n\ Constructs\ an\ empty\ linked\ list.\n
+comment2.params=
+comment2.target=java.lang.Object\ getFirst()
+comment2.text=\ \n\ Gets\ the\ first\ element\ in\ the\ linked\ list\ and\ returns\ it.\n\ Throw\ NoSuchElementException\ if\ the\ list\ is\ empty.\n
+comment3.params=element
+comment3.target=void\ addFirst(java.lang.Object)
+comment3.text=\n\ Adds\ an\ element\ to\ the\ front\ of\ the\ linked\ list.\n\ @param\ element\ the\ element\ to\ add\n
+comment4.params=
+comment4.target=java.lang.Object\ removeFirst()
+comment4.text=\ \n\ Removes\ the\ first\ element\ in\ the\ linked\ list\ and\ returns\ it.\n\ Throw\ NoSuchElementException\ if\ the\ list\ is\ empty.\n
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment5.text=\n\ \ toString\ method\n
+numComments=6

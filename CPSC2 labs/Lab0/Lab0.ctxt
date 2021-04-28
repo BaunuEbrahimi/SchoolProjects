@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Lab0
+comment0.text=\n\ Testing\ your\ Java\ basic\ knowledge\ and\ programming\ skills.\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=base\ degree
+comment2.target=double\ power(double,\ int)
+comment3.params=n
+comment3.target=long\ factorial(int)
+numComments=4
